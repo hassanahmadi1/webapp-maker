@@ -53,7 +53,7 @@ class MainActivity : ComponentActivity() {
 
     companion object {
         private const val SITE_HOST = "ashrafimobl.com"
-        private const val HOME_URL = "https://ashrafimobl.com"
+        private const val HOME_URL = "https://hassanahmadi.ir"
         private const val RETRY_INTERVAL_SECONDS = 30
         private const val DOUBLE_BACK_EXIT_TIME = 2000L
         private const val MAX_PREFETCH_LINKS = 6
